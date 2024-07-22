@@ -1,0 +1,19 @@
+body{background-color: beige;}
+h1 {background-color: rgb(252, 202, 152); border: dotted;}
+p{margin: 0px;}
+p.a{background-color: rgb(5, 5, 193);color: rgb(1, 1, 1);border: double;}
+p.b{background-color: rgb(75, 75, 225);: 0.9; border: double;}
+p.b{background-color: rgb(49, 49, 225);border: double;}
+p.c{background-color: rgb(45, 45, 247); color: black;border: double;}
+p.d{background-color: blue; color: black;border: double;border: double;}
+p.e{background-color: rgb(66, 66, 230); color: black;border: double;}
+p.f{background-color: rgb(47, 47, 242);color: black;border: double;}
+p.g{background-color: rgb(61, 61, 248);color: black;border: double;}
+p.h{background-color: rgb(25, 255, 25);border: double;}
+p.i{background-color: rgb(233, 118, 196);color: rgb(48, 45, 45);border: double;}
+p.j{background-color: rgb(242, 107, 172);color: rgb(44, 41, 41);border: double;}
+p.k{background-color: rgb(240, 87, 166); color: rgb(60, 56, 56);border: double;}
+p.l{background-color: rgb(244, 84, 180); color: rgb(21, 20, 20);border: double;}
+p.m{background-color: rgb(245, 78, 162); color: rgb(0, 0, 0);border: double;}
+p.n{background-color: rgb(243, 62, 135); color:black;border: double;}
+p.o{background-color: rgb(226, 3, 100); color:black; border: double;}
